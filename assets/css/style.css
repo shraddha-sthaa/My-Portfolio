@@ -393,8 +393,8 @@ main {
 .chip-box-align span {
   background-color: #333;
   color: #fff;
-  padding: 0.5rem 1rem;
-  border-radius: 16px;
+  padding: 5px 18px;
+  border-radius: 10px;
   font-size: 0.85rem;
   text-align: center;
   white-space: nowrap;
@@ -502,9 +502,66 @@ main {
   color: var(--light-gray);
 }
 
+.tooltip {
+  position: relative;
+  /* Position relative for tooltip alignment */
+  display: inline-block;
+  /* Ensure the element behaves like an inline element */
+  cursor: pointer;
+  /* Change cursor on hover */
+}
 
+.tooltip ion-icon:hover {
+  transform: scale(1.2);
+  /* Slight zoom effect */
+}
 
+.tooltip ion-icon {
+  /* Icon color */
+  transition: transform 0.2s ease;
+  /* Zoom animation on hover */
+}
 
+.tooltip-text {
+  visibility: hidden;
+  opacity: 0;
+  width: 220px;
+  background-color: hsl(45, 100%, 72%);
+  color: #000;
+  text-align: center;
+  padding: 0.5rem;
+  border-radius: 6px;
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.85rem;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 1;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  /* Add subtle shadow */
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  /* Show tooltip */
+  opacity: 1;
+  /* Fade-in effect */
+}
+
+.tooltip-arrow {
+  position: absolute;
+  bottom: -6px;
+  /* Adjust position to overlap with the tooltip */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid #ffdb70;
+  /* Match tooltip background */
+}
 
 /*-----------------------------------*\
   #NAVBAR

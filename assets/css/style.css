@@ -1216,8 +1216,13 @@ main {
   font-weight: var(--fw-300);
 }
 
-
-
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: var(--light-gray-70);
+  margin: 20px 0;
+  opacity: 0.2;
+}
 
 
 /*-----------------------------------*\

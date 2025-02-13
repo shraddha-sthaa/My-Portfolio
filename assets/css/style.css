@@ -393,9 +393,9 @@ main {
 .chip-box-align span {
   background-color: #333;
   color: #fff;
-  padding: 5px 18px;
+  padding: 5px 15px;
   border-radius: 9px;
-  font-size: var(--fs-8);
+  font-size: var(--fs-7);
   border: #535353 1px solid;
   text-align: center;
   white-space: nowrap;

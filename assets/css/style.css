@@ -395,7 +395,7 @@ main {
   color: #fff;
   padding: 5px 15px;
   border-radius: 9px;
-  font-size: 13px;
+  font-size: var(--fs-8);
   border: #535353 1px solid;
   text-align: center;
   white-space: nowrap;

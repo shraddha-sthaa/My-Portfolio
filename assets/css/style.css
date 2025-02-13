@@ -383,6 +383,7 @@ main {
   border-radius: 8px;
 }
 
+/* 
 .chip-box-align {
   display: flex;
   flex-wrap: wrap;
@@ -399,7 +400,7 @@ main {
   border: #535353 1px solid;
   text-align: center;
   white-space: nowrap;
-}
+} */
 
 .info_more-btn {
   position: absolute;
@@ -675,7 +676,7 @@ main {
 }
 
 .service-content-box {
-  text-align: center;
+  text-align: left;
 }
 
 .service-item-title {
@@ -689,6 +690,23 @@ main {
   line-height: 1.6;
 }
 
+.chip-box-align {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: flex-start;
+}
+
+.chip-box-align span {
+  background-color: #333;
+  color: #fff;
+  padding: 5px 15px;
+  border-radius: 9px;
+  font-size: var(--fs-8);
+  border: #535353 1px solid;
+  text-align: center;
+  white-space: nowrap;
+}
 
 /**
  * #testimonials 

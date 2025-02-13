@@ -394,10 +394,9 @@ main {
   background-color: #333;
   color: #fff;
   padding: 5px 18px;
-  border-radius: 10px;
+  border-radius: 9px;
   font-size: var(--fs-8);
-  border-radius: 10px;
-  border: #333 1px;
+  border: #535353 1px solid;
   text-align: center;
   white-space: nowrap;
 }

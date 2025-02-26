@@ -22,4 +22,4 @@ Portfolio website built using HTML5, CSS3, JavaScript.
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://www.linkedin.com/in/yashnayi)
+[linkedin](https://www.linkedin.com/in/yashnayi)

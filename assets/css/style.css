@@ -319,6 +319,18 @@ article.active {
   z-index: -1;
 }
 
+.avatar-box img {
+  display: block;
+  /* Ensures image doesn’t generate extra whitespace */
+  width: 80px;
+  /* Default for smaller screens */
+  height: auto;
+  /* Keep aspect ratio */
+  border-radius: 25%;
+  /* If you want it circular */
+  object-fit: cover;
+  /* Crops inside the box if it’s bigger than container */
+}
 
 
 
@@ -1526,6 +1538,9 @@ textarea.form-input::-webkit-resizer {
     height: auto;
   }
 
+  .avatar-box img {
+    width: 50px;
+  }
 }
 
 
@@ -1623,7 +1638,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box img {
-    width: 120px;
+    width: 200px;
   }
 
   .info-content .name {
@@ -1938,7 +1953,9 @@ textarea.form-input::-webkit-resizer {
     width: 80px;
   }
 
-
+  .avatar-box img {
+    width: 140px;
+  }
 
   /**
    * PORTFOLIO

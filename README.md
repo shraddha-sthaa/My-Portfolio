@@ -12,7 +12,7 @@ Portfolio website built using HTML5, CSS3, JavaScript.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 
-<img width="1410" alt="Screenshot 2025-02-25 at 10 25 27 PM" src="https://github.com/user-attachments/assets/9234b86b-396d-48a3-b2c5-61c275091e02" />
+![portfolio-mockup](https://github.com/user-attachments/assets/60b7ac64-9617-4629-9273-521faa07b5e3)
 
 <img width="1347" alt="Screenshot 2025-02-25 at 10 25 40 PM" src="https://github.com/user-attachments/assets/8516867d-3b87-4a38-992f-d1125f6ddee6" />
 

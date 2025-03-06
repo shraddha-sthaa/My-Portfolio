@@ -166,7 +166,31 @@ body {
 }
 
 
+.button-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: #333;
+  /* GitHub-like dark color */
+  color: white;
+  border: 1px solid #333;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
 
+.button-link img {
+  margin-right: 8px;
+  /* Space between image and text */
+  vertical-align: middle;
+}
+
+.button-link:hover {
+  background-color: #555;
+  border: 1px solid #555;
+  border-radius: 8px;
+  /* Darker on hover */
+}
 
 
 /*-----------------------------------*\

@@ -1,25 +1,21 @@
-# portfolio.ai
+# Shraddha Shrestha - Data Analyst  
 
-Portfolio website built using HTML5, CSS3, JavaScript.
+Hey there! I'm Shraddha, a Data Science grad student at the University of New Haven, to solve real-world data problems.  
 
-[Hey! Look at my portfolio](https://yashnayi09.netlify.app/)
+## What I Do  
+- 🧠 **AI & ML** – Building neural networks & predictive models  
+- 📊 **Data Analytics** – Visualizing insights with Power BI & ArcGIS  
+- 🚀 **MLOps** – Deploying models with Docker & AWS  
 
-## 📌 Tech Stack
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🦸‍♂️ Projects  
+- 🕵️ **Auction Predictor** – Logistic Regression on `eBayAuctions.csv`  
+- 📸 **CNN Image Classifier** – Trained on 1K+ images with PyTorch  
+- 🗺️ **UNewHaven Visa Trend Dashboard** – PowerBI
 
+## 🛠️ Tools of the Trade  
+🐍 Python | 🏗️ TensorFlow | 🔬 PyTorch | 📦 Docker | ☁️ AWS  
 
-## 📌 Sneak Peek of Main Page 🙈 :
+## 🔗 Web-Sling with Me  
+[🌐 Portfolio](https://) | [🕵️‍♂️ LinkedIn](https://linkedin.com/in/shraddha-shrestha-j06/) | [🖥️ GitHub](https://github.com/shraddha-sthaa) | [📧 Email](mail to: imshraddha24@gmail.com)  
 
-![portfolio-mockup](https://github.com/user-attachments/assets/60b7ac64-9617-4629-9273-521faa07b5e3)
-
-<img width="1347" alt="Screenshot 2025-02-25 at 10 25 40 PM" src="https://github.com/user-attachments/assets/8516867d-3b87-4a38-992f-d1125f6ddee6" />
-
-
-
-<h2>📬 Contact</h2>
-
-Feel free to reach me through the below handles if you'd like to contact me.
-
-[linkedin](https://www.linkedin.com/in/yashnayi)
+_"With great data comes great responsibility!"_ 🚀  
